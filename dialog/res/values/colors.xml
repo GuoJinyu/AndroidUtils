@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="btn_dialog_negative_normal">#ff0000</color>
+    <color name="btn_dialog_negative_pressed">#bf0000</color>
+    <color name="btn_dialog_positive_normal">#368bff</color>
+    <color name="btn_dialog_positive_pressed">#0067f3</color>
+</resources>
